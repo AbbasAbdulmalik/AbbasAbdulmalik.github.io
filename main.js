@@ -1,6 +1,6 @@
 //---------------------
 
-
+var foobar;
 
 //--------------------
 window.onload = resizeRootEm;
