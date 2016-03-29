@@ -1,6 +1,5 @@
 //---------------------
-
-var foobar;
+var me = document.getElementById("name");
 
 //--------------------
 window.onload = resizeRootEm;
